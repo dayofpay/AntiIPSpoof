@@ -1,0 +1,6 @@
+name: MagmaAntiOP
+version: '${project.version}'
+main: me.dayofpay.magmaantiop.Main
+authors: [ dayofpay ]
+description: Disable specific op player commands
+website: https://v-devs.eu
